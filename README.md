@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working at **Infosys as a Senior System Engineer**  
-- 📚 Looking for opportunities as a **Data Analyst**  
+- 👨‍💻 Currently working at **Infosys as a Data Analyst**  
 - 💡 Passionate about **Data Analytics, Visualization & Business Intelligence**  
 - ⚡ Fun fact: **I turn coffee ☕ into insights 📊**  
 
