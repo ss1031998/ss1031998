@@ -6,13 +6,16 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 👨‍💻 Currently working at **Infosys as a Data Analyst**  
-- 💡 Passionate about **Data Analytics, Visualization & Business Intelligence**  
-- ⚡ Fun fact: **I turn coffee ☕ into insights 📊**  
-
----
+- 👨‍💻 **Currently working at Infosys as a Data Analyst**  
+- 💡 **Passionate about Data Analytics, Visualization & Business Intelligence**  
+- 📊 **Expertise in SQL, Python (pandas, NumPy, Seaborn), and Power BI**  
+- 🏆 **Experience in monitoring, troubleshooting & resolving complex operational issues**  
+- 🌎 **Worked with clients from the USA, Netherlands, Slovakia & Ireland**  
+- 🖥️ **2+ years of experience as a System & Senior System Engineer at Infosys**  
+- 🛠️ **Proficient in Linux, SQL & Data Migration projects**  
+- ⚡ **Fun fact: I turn coffee ☕ into actionable insights 📊**  
 
 ## 🛠️ Tech Stack
 
