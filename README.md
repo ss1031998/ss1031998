@@ -52,6 +52,8 @@
 - 📌 **[Pizza-Data-Anlaysis-Report](https://github.com/ss1031998/Pizza-Data-Anlaysis-Report/blob/main/README.md)**
 - 📌 **[Diwali Sales Analysis](https://github.com/ss1031998/Diwali-Sales-Analysis)**
 - 📌 **[COVID-19 India Statewise Analysis (Tableau)](https://public.tableau.com/app/profile/subham.sinha/viz/covid19indiaanalysisstatewise/covid19indiastatewiseanalysis)**
+- 📌 [Weather Forecast Dashboard – Power BI + WeatherAPI](https://github.com/ss1031998/Weather-Report/blob/main/README.md)
+
 
 ---
 
