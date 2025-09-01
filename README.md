@@ -54,7 +54,8 @@
 - 📌 **[COVID-19 India Statewise Analysis (Tableau)](https://public.tableau.com/app/profile/subham.sinha/viz/covid19indiaanalysisstatewise/covid19indiastatewiseanalysis)**
 - 📌 [Weather Forecast Dashboard – Power BI + WeatherAPI](https://github.com/ss1031998/Weather-Report/blob/main/README.md)
 - 📌 https://github.com/ss1031998/Heart-Disease-Analysis/blob/main/README.md
-- 📌https://github.com/ss1031998/Bank-Dashboard-Project
+- 📌 https://github.com/ss1031998/Bank-Dashboard-Project
+- 📌 https://github.com/ss1031998/Shark-Tank-India-PowerBI-Report/blob/main/README.md
 
 
 
